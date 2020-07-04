@@ -1,0 +1,10 @@
+D:\vs代码\Family Tree\Family Tree\bin\Debug\Family Tree.exe.config
+D:\vs代码\Family Tree\Family Tree\bin\Debug\Family Tree.exe
+D:\vs代码\Family Tree\Family Tree\bin\Debug\Family Tree.pdb
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.csprojResolveAssemblyReference.cache
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family_Tree.Properties.Resources.resources
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.csproj.GenerateResource.Cache
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.exe
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family Tree.pdb
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family_Tree.Main.resources
+D:\vs代码\Family Tree\Family Tree\obj\Debug\Family_Tree.zhuce.resources
