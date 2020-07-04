@@ -1,0 +1,10 @@
+E:\2223\族谱\族谱\bin\Debug\族谱.exe.config
+E:\2223\族谱\族谱\bin\Debug\族谱.exe
+E:\2223\族谱\族谱\bin\Debug\族谱.pdb
+E:\2223\族谱\族谱\obj\Debug\族谱.csprojResolveAssemblyReference.cache
+E:\2223\族谱\族谱\obj\Debug\族谱.Form1.resources
+E:\2223\族谱\族谱\obj\Debug\族谱.lrxx.resources
+E:\2223\族谱\族谱\obj\Debug\族谱.Properties.Resources.resources
+E:\2223\族谱\族谱\obj\Debug\族谱.csproj.GenerateResource.Cache
+E:\2223\族谱\族谱\obj\Debug\族谱.exe
+E:\2223\族谱\族谱\obj\Debug\族谱.pdb
