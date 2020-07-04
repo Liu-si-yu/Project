@@ -1,0 +1,11 @@
+c:\users\14933\documents\visual studio 2015\Projects\综合查询\综合查询\bin\Debug\综合查询.exe.config
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\bin\Debug\综合查询.exe
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\bin\Debug\综合查询.pdb
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.cahxun2.resources
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.查询.resources
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.cahxun1.resources
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.Properties.Resources.resources
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.csproj.GenerateResource.Cache
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.exe
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.pdb
+C:\Users\14933\Documents\Visual Studio 2015\Projects\综合查询\综合查询\obj\Debug\综合查询.csprojResolveAssemblyReference.cache
